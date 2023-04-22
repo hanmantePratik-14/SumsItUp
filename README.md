@@ -1,12 +1,15 @@
 # SumsItUp
 
-This is a simple web application that uses the power of OpenAI's GPT-4 model to summarize a given text. The app takes in a user-provided text and generates a summary of the text by using the GPT-4 model. The app is built using Python Flask framework and hosted on a web server.
+This is a simple web application that uses the power of OpenAI's GPT-4 model to summarize a given text. The app takes in a user-provided text and generates a summary of the text by using the GPT-4 model. The app is built using follwing tech
+
+-React and Redux toolkit
+-tailwind
 
 ## Usage
 
 ### To use the app, follow these steps:
 
-Open your web browser and navigate to http://localhost:5000.
+Open your web browser and navigate to http://www.sumsitup,netlify.app.
 Enter the website url that you want to summarize in the text box provided on the app's homepage.
 Click on the "Spaceship" button.
 The app will generate a summary of the input text and display it on the results page.
