@@ -9,7 +9,7 @@ This is a simple web application that uses the power of OpenAI's GPT-4 model to 
 
 ### To use the app, follow these steps:
 
-Open your web browser and navigate to http://www.sumsitup,netlify.app.
+Open your web browser and navigate to http://www.sumsitup.netlify.app.
 Enter the website url that you want to summarize in the text box provided on the app's homepage.
 Click on the "Spaceship" button.
 The app will generate a summary of the input text and display it on the results page.
